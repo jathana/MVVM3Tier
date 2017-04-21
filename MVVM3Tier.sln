@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM3Tier.UI", "MVVM3Tier.UI\MVVM3Tier.UI.csproj", "{0BE18782-E648-483B-AA41-C0C22D29DA36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM3Tier.Model", "MVVM3Tier.Model\MVVM3Tier.Model.csproj", "{EF98CD7D-BA92-4F3E-A4AD-91E0976A3AE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE18782-E648-483B-AA41-C0C22D29DA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE18782-E648-483B-AA41-C0C22D29DA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE18782-E648-483B-AA41-C0C22D29DA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE18782-E648-483B-AA41-C0C22D29DA36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF98CD7D-BA92-4F3E-A4AD-91E0976A3AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF98CD7D-BA92-4F3E-A4AD-91E0976A3AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF98CD7D-BA92-4F3E-A4AD-91E0976A3AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF98CD7D-BA92-4F3E-A4AD-91E0976A3AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
